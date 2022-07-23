@@ -12,7 +12,7 @@ public class App {
         // String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java/api/TopMovies.json";
         // String  url = "https://api.mocki.io/v2/549a5d8b/MostPopularTVs";
         
-        String url = "http://localhost:8080/linguagens";
+        String url = "https://gabriel-linguagens-api.herokuapp.com/linguagens";
         ExtratorDeConteudo extrator = new ExtratorDeConteudoDoIMDB();
 
         // String url = "https://api.mocki.io/v2/549a5d8b/NASA-APOD";
